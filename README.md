@@ -11,7 +11,7 @@ that `git commit`, `git push`, and `git pull` all work out of the box.
 ## Getting Started
 
 ```bash
-git clone git@github.com:buhahahaha-cloud/my-sample-opencode-project.git
+git clone git@github.com:neptuntropicana-coder/my-sample-opencode-project.git
 cd my-sample-opencode-project
 ```
 
