@@ -8,6 +8,9 @@ This repository is a minimal, ready-to-use Git project that demonstrates a clean
 setup: an initialized Git repository, a README, and a working remote on GitHub so
 that `git commit`, `git push`, and `git pull` all work out of the box.
 
+**Scope:** this repo is deliberately minimal — a verified reference for git and
+agent tooling, not a scaffold for application code.
+
 ## Getting Started
 
 ```bash
